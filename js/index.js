@@ -15,7 +15,7 @@ function displayVideo(){
 
 function hideVideo(){
     let style = home.style;
-    style.background = "url('img/main/dr-octopus-1.jpg')";
+    style.background = "url('../img/main/dr-octopus-1.jpg')";
     style.backgroundRepeat = "no-repeat";
     style.backgroundSize = "cover";
     style.backgroundPosition = "center";
